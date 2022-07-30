@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import javax.imageio.ImageIO;
 
 public class Queen extends Pieces{
-//bruhh
+
 	public Queen(int x, int y, ID id) {
 		super(x, y, id);
 		try {
